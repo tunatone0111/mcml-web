@@ -1,6 +1,3 @@
-import Footer from "./footer";
-import Nav from "./nav";
-
 export default function Home() {
   return (
     <>
@@ -356,13 +353,6 @@ export default function Home() {
               </tr>
             </tbody>
           </table>
-        </div>
-      </div>
-      <div className="container back-to-top-container">
-        <div className="pull-right">
-          <a href="#" className="back-to-top">
-            <i className="fa fa-arrow-up"></i> Back to top
-          </a>
         </div>
       </div>
     </>

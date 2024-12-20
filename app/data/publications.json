@@ -1,0 +1,1620 @@
+{
+    "2024": {
+        "journal": [
+            {
+                "title": "Temporal shuffling for defending deep action recognition models against adversarial attacks",
+                "authors": [
+                    "J. Hwang",
+                    "H. Zhang",
+                    "J.-H. Choi",
+                    "C.-J. Hsieh",
+                    "J.-S. Lee"
+                ],
+                "venue": "Neural Networks",
+                "details": "vol. 169, pp. 388-397, Jan. 2024",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1016/j.neunet.2023.10.033",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2112.07921",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Similarity of neural architectures using adversarial attack transferability",
+                "authors": [
+                    "J. Hwang",
+                    "D. Han",
+                    "B. Heo",
+                    "S. Park",
+                    "S. Chun",
+                    "J.-S. Lee"
+                ],
+                "venue": "European Conf. Computer Vision (ECCV)",
+                "details": "Sep. 2024",
+                "links": [
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2210.11407",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/J-H-Hwang/SAT",
+                        "icon": "fa-github"
+                    }
+                ]
+            },
+            {
+                "title": "Anomaly score: Evaluating generative models and individual generated images based on complexity and vulnerability",
+                "authors": [
+                    "J. Hwang",
+                    "J. Lee",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR)",
+                "details": "pp. 8754-8763, Jun. 2024",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Hwang_Anomaly_Score_Evaluating_Generative_Models_and_Individual_Generated_Images_based_CVPR_2024_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2312.10634",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "YouTube",
+                        "url": "https://www.youtube.com/watch?v=rqQg9z_Mpdg",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Curved representation space of vision transformers",
+                "authors": [
+                    "J. Kim",
+                    "J. Park",
+                    "S. Kim",
+                    "J.-S. Lee"
+                ],
+                "venue": "AAAI Conf. Artificial Intelligence (AAAI)",
+                "details": "pp. 13142-13150, Feb. 2024",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1609/aaai.v38i12.29213",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2210.05742",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Exploring adversarial robustness of vision transformers in the spectral perspective",
+                "authors": [
+                    "G. Kim",
+                    "J. Kim",
+                    "J.-S. Lee"
+                ],
+                "venue": "Winter Conf. Applications of Computer Vision (WACV)",
+                "details": "pp. 3976-3985, Jan. 2024",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/WACV2024/html/Kim_Exploring_Adversarial_Robustness_of_Vision_Transformers_in_the_Spectral_Perspective_WACV_2024_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2208.09602",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/gihyunkim/Exploring-Adversarial-Robustness-of-ViT-in-the-Spectral-Perspective?tab=readme-ov-file",
+                        "icon": "fa-github"
+                    },
+                    {
+                        "type": "YouTube",
+                        "url": "https://www.youtube.com/watch?v=TP4MKRKGnp0",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ]
+    },
+    "2023": {
+        "journal": [
+            {
+                "title": "Probabilistic modeling of image aesthetic assessment towards measuring subjectivity",
+                "authors": [
+                    "H. Jang",
+                    "Y. Lee",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 11, pp. 145772-145780, Dec. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2023.3345921",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "E2E-BPF microscope: Extended depth-of-field microscopy using learning-based implementation of binary phase filter and image deconvolution",
+                "authors": [
+                    "B. Seong",
+                    "W. Kim",
+                    "Y. Kim",
+                    "K.-A. Hyun",
+                    "H.-I. Jung",
+                    "J.-S. Lee",
+                    "J. Yoo",
+                    "C. Joo"
+                ],
+                "venue": "Light: Science & Applications",
+                "details": "vol. 12, article 269, Nov. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1038/s41377-023-01300-5",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "EEG-based emotional video classification via learning connectivity structure",
+                "authors": [
+                    "S. Jang",
+                    "S.-E. Moon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Affective Computing",
+                "details": "vol. 14, no. 2, pp. 1586-1597, Apr.-Jun. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TAFFC.2021.3126263",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/1905.11678",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Tyrosine-mediated analog resistive switching for artificial neural networks",
+                "authors": [
+                    "M.-K. Song",
+                    "S. D. Namgung",
+                    "H. Lee",
+                    "J. H. Yoon",
+                    "Y.-W. Song",
+                    "K. H. Cho",
+                    "Y.-S. Lee",
+                    "J.-S. Lee",
+                    "K. T. Nam",
+                    "J.-Y. Kwon"
+                ],
+                "venue": "Nano Research",
+                "details": "vol. 16, no. 1, pp. 858-864, Jan. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1007/s12274-022-4760-1",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "LUT-LIC: Look-up table-assisted learned image compression",
+                "authors": [
+                    "S. Yu",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Conf. Neural Information Processing (ICONIP)",
+                "details": "pp. 430-441, Nov. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1007/978-981-99-8148-9_34",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Integer quantized learned image compression",
+                "authors": [
+                    "G.-W. Jeon",
+                    "S. Yu",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Image Processing (ICIP)",
+                "details": "pp. 2755-2759, Oct. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ICIP49359.2023.10222336",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Leveraging feature interaction for modeling user-item interaction in recommender systems",
+                "authors": [
+                    "S. Jang",
+                    "S. Lee",
+                    "J. Park",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+                "details": "pp. 5108-5113, Oct. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/SMC53992.2023.10394154",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Enhancing graph structures for node classification: an alternative view on adversarial attacks",
+                "authors": [
+                    "S. Jang",
+                    "J. Park",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+                "details": "pp. 5090-5095, Oct. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/SMC53992.2023.10394321",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "ViPLO: Vision transformer based pose-conditioned self-loop graph for human-object interaction detection",
+                "authors": [
+                    "J. Park",
+                    "J.-W. Park",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR)",
+                "details": "pp. 17152-17162, Jun. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Park_ViPLO_Vision_Transformer_Based_Pose-Conditioned_Self-Loop_Graph_for_Human-Object_Interaction_CVPR_2023_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2304.08114",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/Jeeseung-Park/ViPLO",
+                        "icon": "fa-github"
+                    }
+                ]
+            },
+            {
+                "title": "Amicable aid: perturbing images to improve classification performance",
+                "authors": [
+                    "J. Kim",
+                    "J.-H. Choi",
+                    "S. Jang",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+                "details": "Jun. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ICASSP49357.2023.10095024",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2112.04720",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Demystifying randomly initialized networks for evaluating generative models",
+                "authors": [
+                    "J. Lee",
+                    "J.-H. Kim",
+                    "J.-S. Lee"
+                ],
+                "venue": "AAAI Conf. Artificial Intelligence (AAAI)",
+                "details": "pp. 8482-8490, Feb. 2023",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1609/aaai.v37i7.26022",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2208.09218",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ]
+    },
+    "2022": {
+        "journal": [
+            {
+                "title": "Local critic training for model-parallel learning of deep neural networks",
+                "authors": [
+                    "H. Lee",
+                    "C.-J. Hsieh",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Neural Networks and Learning Systems",
+                "details": "vol. 33, no. 9, pp. 4424-4436, Sep. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TNNLS.2021.3057380",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2102.01963",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/hjdw2/Local-critic-training",
+                        "icon": "fa-github"
+                    }
+                ]
+            },
+            {
+                "title": "Successive learned image compression: Comprehensive analysis of instability",
+                "authors": [
+                    "J.-H. Kim",
+                    "S. Jang",
+                    "J.-H. Choi",
+                    "J.-S. Lee"
+                ],
+                "venue": "Neurocomputing",
+                "details": "vol. 506, pp. 12-24, Sep. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1016/j.neucom.2022.07.065",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Humidity-induced synaptic plasticity of ZnO artificial synapses using peptide insulator for neuromorphic computing",
+                "authors": [
+                    "M.-K. Song",
+                    "H. Lee",
+                    "J. H. Yoon",
+                    "Y.-W. Song",
+                    "S. D. Namgung",
+                    "T. Sung",
+                    "Y.-S. Lee",
+                    "J.-S. Lee",
+                    "K. T. Nam",
+                    "J.-Y. Kwon"
+                ],
+                "venue": "Journal of Materials Science & Technology",
+                "details": "vol. 119, pp. 150-155, Aug. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1016/j.jmst.2021.12.016",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Classifying gas data measured under multiple conditions using deep learning",
+                "authors": [
+                    "H. Lee",
+                    "J. Hwang",
+                    "H. D. Park",
+                    "J. H. Choi",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 10, pp. 68138-68150, Jun. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2022.3185613",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Engineering pupil function for optical adversarial attack",
+                "authors": [
+                    "K. Kim",
+                    "J. Kim",
+                    "S. Song",
+                    "J.-H. Choi",
+                    "C. Joo",
+                    "J.-S. Lee"
+                ],
+                "venue": "Optics Express",
+                "details": "vol. 30, no. 5, pp. 6500-6518, Feb. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1364/OE.450058",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Rethinking online knowledge distillation with multi-exits",
+                "authors": [
+                    "H. Lee",
+                    "J.-S. Lee"
+                ],
+                "venue": "Asian Conf. Computer Vision (ACCV)",
+                "details": "pp. 408-424, Dec. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/ACCV2022/html/Lee_Rethinking_Online_Knowledge_Distillation_with_Multi-Exits_ACCV_2022_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/hjdw2/BEED",
+                        "icon": "fa-github"
+                    }
+                ]
+            },
+            {
+                "title": "TREND: Truncated generalized normal density estimation of inception embeddings for GAN evaluation",
+                "authors": [
+                    "J. Lee",
+                    "J.-S. Lee"
+                ],
+                "venue": "European Conf. Computer Vision (ECCV)",
+                "details": "pp. 87-103, Oct. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1007/978-3-031-20050-2_6",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2104.14767",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/junghyuk-lee/TREND",
+                        "icon": "fa-github"
+                    }
+                ]
+            },
+            {
+                "title": "Resting-state fNIRS classification using connectivity and convolutional neural networks",
+                "authors": [
+                    "S. Moon",
+                    "S.-E. Moon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+                "details": "pp. 1716-1721, Oct. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/SMC53654.2022.9945172",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Adversarial robustness of flow-based image super-resolution",
+                "authors": [
+                    "J. Park",
+                    "J.-H. Choi",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Workshop on Multimedia Signal Processing (MMSP)",
+                "details": "Sep. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/MMSP55362.2022.9949274",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Deep image destruction: Vulnerability of deep image-to-image models against adversarial attacks",
+                "authors": [
+                    "J.-H. Choi",
+                    "H. Zhang",
+                    "J.-H. Kim",
+                    "C.-J. Hsieh",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Conf. Pattern Recognition (ICPR)",
+                "details": "pp. 1287-1293, Aug. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ICPR56361.2022.9956577",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2104.15022",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Joint global and local hierarchical priors for learned image compression",
+                "authors": [
+                    "J.-H. Kim",
+                    "B. Heo",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR)",
+                "details": "pp. 5992-6001, Jun. 2022",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Joint_Global_and_Local_Hierarchical_Priors_for_Learned_Image_Compression_CVPR_2022_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2112.04487",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/junhyukk/informer",
+                        "icon": "fa-github"
+                    }
+                ]
+            }
+        ]
+    },
+    "2021": {
+        "journal": [
+            {
+                "title": "Prediction of car design perception using EEG and gaze patterns",
+                "authors": [
+                    "S.-E. Moon",
+                    "J.-H. Kim",
+                    "S.-W. Kim",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Affective Computing",
+                "details": "vol. 12, no. 4, pp. 843-856, Oct.-Dec. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TAFFC.2019.2901733",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Wide color gamut image content characterization: method, evaluation, and applications",
+                "authors": [
+                    "J. Lee",
+                    "T. Vigier",
+                    "P. Le Callet",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Multimedia",
+                "details": "vol. 23, pp. 3817-3827, 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TMM.2020.3032026",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2101.07451",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Ambiguity of objective image quality metrics: A new methodology for performance evaluation",
+                "authors": [
+                    "M. Cheon",
+                    "T. Vigier",
+                    "L. Krasula",
+                    "J. Lee",
+                    "P. Le Callet",
+                    "J.-S. Lee"
+                ],
+                "venue": "Signal Processing: Image Communication",
+                "details": "vol. 93, Apr. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1016/j.image.2021.116150",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2101.07439",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Volatile-nonvolatile memory network for progressive image super-resolution",
+                "authors": [
+                    "J.-H. Choi",
+                    "J.-H. Kim",
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 9, pp. 37487-37496, Mar. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2021.3063760",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "GitHub",
+                        "url": "https://github.com/idearibosome/tf-vmnet",
+                        "icon": "fa-github"
+                    }
+                ]
+            },
+            {
+                "title": "Analysis of deep features for image aesthetic assessment",
+                "authors": [
+                    "H. Jang",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 9, pp. 29850-29861, Feb. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2021.3060171",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Just one moment: Structural vulnerability of deep action recognition against one frame attack",
+                "authors": [
+                    "J. Hwang",
+                    "J.-H. Kim",
+                    "J.-H. Choi",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Conf. Computer Vision (ICCV)",
+                "details": "pp. 7668-7676, Oct. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/ICCV2021/html/Hwang_Just_One_Moment_Structural_Vulnerability_of_Deep_Action_Recognition_Against_ICCV_2021_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "http://arxiv.org/abs/2011.14585v2",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "YouTube",
+                        "url": "https://www.youtube.com/watch?v=IPOVL4ypMdc",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Edge attention network for image deblurring and super-resolution",
+                "authors": [
+                    "J.-W. Han",
+                    "J.-H. Choi",
+                    "J.-H. Kim",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+                "details": "pp. 2393-2398, Oct. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/SMC52423.2021.9658863",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "NTIRE 2021 challenge on image deblurring",
+                "authors": [
+                    "S. Nah",
+                    "et al."
+                ],
+                "venue": "IEEE/CVF Conf. Computer Vision and Pattern Recognition (CVPR) Workshops",
+                "details": "Jun. 2021",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.html",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "arXiv",
+                        "url": "https://arxiv.org/abs/2104.14854",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Application of a deep reinforcement learning algorithm in household inverter air-conditioner temperature control",
+                "authors": [
+                    "M. S. Yoon",
+                    "W. S. Yoon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEA Heat Pump Conference (HPC)",
+                "details": "pp. 1270-1281, Apr. 2021",
+                "links": []
+            }
+        ]
+    },
+    "2020": {
+        "journal": [
+            {
+                "title": "Subjective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 8, pp. 40691-40705, Feb. 2020",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2020.2976611",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective and objective quality assessment of compressed point clouds",
+                "authors": [
+                    "E. Alexiou",
+                    "M. Bernardo",
+                    "L. A. da Silva Cruz",
+                    "L. G. Dmitrovic",
+                    "C. Duarte",
+                    "E. Dumic",
+                    "T. Ebrahimi",
+                    "D. Gallucci",
+                    "K. Ivaniuk",
+                    "J.-S. Lee",
+                    "Y. Li",
+                    "G. Van der Auwera",
+                    "A. Pinheiro"
+                ],
+                "venue": "IEEE Journal of Selected Topics in Signal Processing",
+                "details": "vol. 14, no. 1, pp. 27-38, Jan. 2020",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/JSTSP.2019.2956689",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Adversarial attack with multiple adversaries: A method for generating adversarial examples",
+                "authors": [
+                    "J.-H. Kim",
+                    "J.-H. Choi",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Conf. Systems, Man, and Cybernetics (SMC)",
+                "details": "pp. 2882-2887, Oct. 2020",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/SMC42975.2020.9283123",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Adversarial attack using multiple perturbations and transfer learning",
+                "authors": [
+                    "J.-H. Kim",
+                    "J.-H. Choi",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Int. Workshop on Multimedia Signal Processing (MMSP)",
+                "details": "pp. 1-6, Sep. 2020",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/MMSP48831.2020.9287113",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective quality assessment of point cloud contents",
+                "authors": [
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2020",
+                "links": []
+            }
+        ]
+    },
+    "2019": {
+        "journal": [
+            {
+                "title": "Subjective quality assessment of perceptually coded point clouds",
+                "authors": [
+                    "E. Alexiou",
+                    "I. Viola",
+                    "T. M. Borges",
+                    "T. A. Fonseca",
+                    "R. L. de Queiroz",
+                    "T. Ebrahimi",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Multimedia",
+                "details": "vol. 22, no. 9, pp. 2159-2175, Sep. 2020",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TMM.2019.2960829",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective quality assessment of high dynamic range images and videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 7, pp. 79347-79362, Jun. 2019",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2019.2922147",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of point cloud compression",
+                "authors": [
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2019",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of point cloud contents",
+                "authors": [
+                    "E. Alexiou",
+                    "I. Viola",
+                    "T. M. Borges",
+                    "T. A. Fonseca",
+                    "R. L. de Queiroz",
+                    "T. Ebrahimi",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2019",
+                "links": []
+            }
+        ]
+    },
+    "2018": {
+        "journal": [
+            {
+                "title": "Subjective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 6, pp. 64521-64533, Oct. 2018",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2018.2877871",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective and objective quality assessment of mobile videos with HEVC encoding",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 27, no. 1, 013012, Jan.-Feb. 2018",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.27.1.013012",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of 4K UHD videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2018",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2018",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high dynamic range images and videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2018",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of compressed point clouds",
+                "authors": [
+                    "E. Alexiou",
+                    "I. Viola",
+                    "T. M. Borges",
+                    "T. A. Fonseca",
+                    "R. L. de Queiroz",
+                    "T. Ebrahimi",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2018",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2018",
+                "links": []
+            }
+        ]
+    },
+    "2017": {
+        "journal": [
+            {
+                "title": "Subjective and objective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Access",
+                "details": "vol. 5, pp. 16077-16090, Aug. 2017",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/ACCESS.2017.2733620",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective and objective quality assessment of mobile videos with HEVC encoding",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 26, no. 1, 013001, Jan.-Feb. 2017",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.26.1.013001",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of 4K UHD videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2017",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2017",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high dynamic range images and videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2017",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2017",
+                "links": []
+            }
+        ]
+    },
+    "2016": {
+        "journal": [
+            {
+                "title": "Subjective and objective quality assessment of compressed 4K UHD videos for immersive experience",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Circuits and Systems for Video Technology",
+                "details": "vol. 27, no. 7, pp. 1467-1480, Jul. 2017",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TCSVT.2016.2564898",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective and objective quality assessment of mobile video clips with various lengths and resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 25, no. 1, 013022, Jan.-Feb. 2016",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.25.1.013022",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of 4K UHD videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2016",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2016",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high dynamic range images and videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2016",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2016",
+                "links": []
+            }
+        ]
+    },
+    "2015": {
+        "journal": [
+            {
+                "title": "Subjective and objective quality assessment of mobile video clips with various lengths and resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 24, no. 6, 061216, Nov.-Dec. 2015",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.24.6.061216",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various lengths and resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 24, no. 5, 053013, Sep.-Oct. 2015",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.24.5.053013",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of 4K UHD videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2015",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high frame rate videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2015",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of high dynamic range images and videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2015",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile videos",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Dec. 2015",
+                "links": []
+            }
+        ]
+    },
+    "2014": {
+        "journal": [
+            {
+                "title": "Subjective and objective quality assessment of mobile video clips with various temporal resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "IEEE Trans. Consumer Electronics",
+                "details": "vol. 60, no. 4, pp. 752-760, Nov. 2014",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1109/TCE.2014.7027353",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Perceptual quality assessment of mobile video clips with various temporal resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 23, no. 6, 061102, Nov.-Dec. 2014",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.23.6.061102",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of mobile video clips with various temporal resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2014",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various spatial resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2014",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various lengths",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2014",
+                "links": []
+            }
+        ]
+    },
+    "2013": {
+        "journal": [
+            {
+                "title": "Subjective and objective quality assessment of mobile video clips with various frame rates and bitrates",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 22, no. 1, 013013, Jan.-Mar. 2013",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.22.1.013013",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of mobile video clips with various frame rates and bitrates",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2013",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various temporal resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2013",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various spatial resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2013",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various lengths",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2013",
+                "links": []
+            }
+        ]
+    },
+    "2012": {
+        "journal": [
+            {
+                "title": "Perceptual quality assessment of mobile video clips with various frame rates and bitrates",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Journal of Electronic Imaging",
+                "details": "vol. 21, no. 1, 013011, Jan.-Mar. 2012",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.JEI.21.1.013011",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Objective video quality assessment",
+                "authors": [
+                    "J.-S. Lee"
+                ],
+                "venue": "Optical Engineering",
+                "details": "vol. 51, no. 1, 017003, Jan. 2012",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "https://doi.org/10.1117/1.OE.51.1.017003",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "Subjective quality assessment of mobile video clips with various frame rates and bitrates",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2012",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various temporal resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2012",
+                "links": []
+            },
+            {
+                "title": "Subjective quality assessment of mobile video clips with various spatial resolutions",
+                "authors": [
+                    "M. Cheon",
+                    "J.-S. Lee"
+                ],
+                "venue": "Int. Workshop on Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+                "details": "Jan. 2012",
+                "links": []
+            }
+        ]
+    },
+    "2011": {
+        "journal": [
+            {
+                "title": "Subjective quality assessment of stereoscopic 3D video",
+                "authors": [
+                    "F. De Simone",
+                    "L. Goldmann",
+                    "J.-S. Lee",
+                    "T. Ebrahimi"
+                ],
+                "venue": "Journal of Visual Communication and Image Representation",
+                "details": "vol. 22, no. 8, pp. 734-748, Nov. 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://dx.doi.org/10.1016/j.jvcir.2011.01.008",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective quality evaluation via paired comparison: application to scalable video coding",
+                "authors": [
+                    "J.-S. Lee",
+                    "F. De Simone",
+                    "T. Ebrahimi"
+                ],
+                "venue": "IEEE Trans. Multimedia",
+                "details": "vol. 13, no. 5, pp. 882-893, Oct. 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://dx.doi.org/10.1109/TMM.2011.2157333",
+                        "icon": "fa-external-link-square"
+                    },
+                    {
+                        "type": "Dataset",
+                        "url": "http://mmspg.epfl.ch/svd",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ],
+        "conference": [
+            {
+                "title": "A new analysis method for paired comparison and its application to 3D quality assessment",
+                "authors": [
+                    "J.-S. Lee",
+                    "L. Goldmann",
+                    "T. Ebrahimi"
+                ],
+                "venue": "ACM Multimedia (MM)",
+                "details": "pp. 1281-1284, Nov. 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://doi.org/10.1145/2072298.2071994",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Motion parallax based restitution of 3D images on legacy consumer mobile devices",
+                "authors": [
+                    "M. Rerabek",
+                    "L. Goldmann",
+                    "J.-S. Lee",
+                    "T. Ebrahimi"
+                ],
+                "venue": "IEEE Int. Workshop on Multimedia Signal Processing (MMSP)",
+                "details": "Oct. 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://dx.doi.org/10.1109/MMSP.2011.6093789",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Subjective quality assessment of scalable video coding: a survey",
+                "authors": [
+                    "J.-S. Lee",
+                    "F. De Simone",
+                    "T. Ebrahimi"
+                ],
+                "venue": "Int. Workshop on Quality of Multimedia Experience (QoMEX)",
+                "details": "pp. 25-30, Sep. 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://dx.doi.org/10.1109/QoMEX.2011.6065707",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Performance analysis of VP8 image and video compression based on subjective evaluations",
+                "authors": [
+                    "F. De Simone",
+                    "L. Goldmann",
+                    "J.-S. Lee",
+                    "T. Ebrahimi"
+                ],
+                "venue": "Proc. SPIE",
+                "details": "vol. 8135, Aug. 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://dx.doi.org/10.1117/12.896313",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            },
+            {
+                "title": "Audio-visual synchronization recovery in multimedia content",
+                "authors": [
+                    "J.-S. Lee",
+                    "T. Ebrahimi"
+                ],
+                "venue": "IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP)",
+                "details": "pp. 2280-2283, May 2011",
+                "links": [
+                    {
+                        "type": "Detail",
+                        "url": "http://dx.doi.org/10.1109/ICASSP.2011.5946937",
+                        "icon": "fa-external-link-square"
+                    }
+                ]
+            }
+        ]
+    }
+}

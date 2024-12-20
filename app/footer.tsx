@@ -4,6 +4,13 @@ import sit_logo from "@/public/images/sit_logo.png";
 export default function Footer() {
   return (
     <footer>
+      <div className="container back-to-top-container">
+        <div className="pull-right">
+          <a href="#" className="back-to-top">
+            <i className="fa fa-arrow-up"></i> Back to top
+          </a>
+        </div>
+      </div>
       <hr />
       <div className="container">
         <div className="footer-item pull-left">

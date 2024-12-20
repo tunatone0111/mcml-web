@@ -1,20 +1,112 @@
-import Image from "next/image";
-import jaehui_hwang from "@/public/images/members/jaehui_hwang.jpg";
-import gihyun_kim from "@/public/images/members/gihyun_kim.jpeg";
-import juyeop_kim from "@/public/images/members/juyeop_kim.jpg";
-import junha_park from "@/public/images/members/junha_park.jpg";
-import seungeun_yu from "@/public/images/members/seungeun-yu.jpeg";
-import hyeonjin_lee from "@/public/images/members/hyeonjin_lee.jpg";
-import donghee_shin from "@/public/images/members/donghee_shin.jpeg";
-import chae_won_lee from "@/public/images/members/chae-won_lee.jpeg";
-import ian_ryu from "@/public/images/members/ian_ryu.jpeg";
-import junhyuk_park from "@/public/images/members/junhyuk_park.jpg";
-import jin_woo_park from "@/public/images/members/jin_woo_park.jpg";
-import hyungkeun_park from "@/public/images/members/hyungkeun_park.jpeg";
-import jiyoon_kim from "@/public/images/members/jiyoon_kim.jpeg";
-import jiyun_kong from "@/public/images/members/jiyun_kong.jpeg";
+import { Student } from "../types/member";
+import MemberSection from "./MemberSection";
 
 export default function Members() {
+  const phdStudents: Student[] = [
+    {
+      name: "Jaehui Hwang",
+      imageName: "jaehui_hwang.jpg",
+      position: "Ph.D. Student",
+      email: "jaehui.hwang@yonsei.ac.kr",
+      website: "https://j-h-hwang.github.io/",
+      interests: "Adversarial Attack, Robustness, Action Recognition",
+    },
+    {
+      name: "Gihyun Kim",
+      imageName: "gihyun_kim.jpeg",
+      position: "Ph.D. Student",
+      email: "kkh9314@yonsei.ac.kr",
+      interests: "Deep Learning with Computer Vision, Adversarial Attack",
+    },
+    {
+      name: "Juyeop Kim",
+      imageName: "juyeop_kim.jpg",
+      position: "Ph.D. Student",
+      email: "juyeopkim@yonsei.ac.kr",
+      interests: "Explainable AI",
+    },
+    {
+      name: "Junha Park",
+      imageName: "junha_park.jpg",
+      position: "Ph.D. Student",
+      email: "junha.park@yonsei.ac.kr",
+      interests: "Deep Learning for Graph Data, Generative Models",
+    },
+    {
+      name: "Seungeun Yu",
+      imageName: "seungeun-yu.jpeg",
+      position: "Ph.D. Student",
+      email: "seungeun.yu@yonsei.ac.kr",
+      interests: "Computer Vision",
+    },
+    {
+      name: "Hyeonjin Lee",
+      imageName: "hyeonjin_lee.jpg",
+      position: "Ph.D. Student",
+      email: "hyeonjin.lee@yonsei.ac.kr",
+      interests: "Human-Like Machine Learning",
+    },
+    {
+      name: "Donghee Shin",
+      imageName: "donghee_shin.jpeg",
+      position: "Ph.D. Student",
+      email: "dh.shin@yonsei.ac.kr",
+      interests: "Generative Model, Graph Neural Network",
+    },
+    {
+      name: "Chae-Won Lee",
+      imageName: "chae-won_lee.jpeg",
+      position: "Ph.D. Student",
+      email: "chae-won.lee@yonsei.ac.kr",
+      interests: "Brain-Computer Interface, Model Privacy, Adversarial Attack",
+    },
+    {
+      name: "Ian Ryu",
+      imageName: "ian_ryu.jpeg",
+      position: "Ph.D. Student",
+      email: "ianryu@yonsei.ac.kr",
+      interests: "Generative Models",
+    },
+  ];
+
+  const msStudents: Student[] = [
+    {
+      name: "Junhyuk Park",
+      imageName: "junhyuk_park.jpg",
+      position: "M.S. Student",
+      email: "junhyuk.park@yonsei.ac.kr",
+      interests: "Deep Learning and its Application",
+    },
+    {
+      name: "Jin-Woo Park",
+      imageName: "jin_woo_park.jpg",
+      position: "M.S. Student",
+      email: "jin-woo.park@yonsei.ac.kr",
+      interests: "Deep Learning and its Application",
+    },
+    {
+      name: "Hyungkeun Park",
+      imageName: "hyungkeun_park.jpeg",
+      position: "M.S. Student",
+      email: "hyungkeun.park@yonsei.ac.kr",
+      interests: "Knowledge Distillation",
+    },
+    {
+      name: "Jiyoon Kim",
+      imageName: "jiyoon_kim.jpeg",
+      position: "M.S. Student",
+      email: "jiyoon.kim@yonsei.ac.kr",
+      interests: "Generative Models",
+    },
+    {
+      name: "Jiyun Kong",
+      imageName: "jiyun_kong.jpeg",
+      position: "M.S. Student",
+      email: "jiyun.kong@yonsei.ac.kr",
+      interests: "Computer Vision",
+    },
+  ];
+
   return (
     <div className="container">
       <div className="page-header">
@@ -39,304 +131,8 @@ export default function Members() {
 
       <hr />
 
-      <a className="bookmark-anchor" id="phd"></a>
-      <div className="page-header">
-        <h3>Ph.D. Students</h3>
-      </div>
-
-      <div className="row">
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={jaehui_hwang}
-                alt="Jaehui Hwang"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Jaehui Hwang</b>
-              </h4>
-              <p>Adversarial Attack, Robustness, Action Recognition</p>
-              <p>
-                jaehui.hwang at yonsei.ac.kr
-                <br />
-                <a href="https://j-h-hwang.github.io/" target="_blank">
-                  <i className="fa fa-external-link-square"></i> Website
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={gihyun_kim}
-                alt="Gihyun Kim"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Gihyun Kim</b>
-              </h4>
-              <p></p>
-
-              <p>Deep Learning with Computer Vision, Adversarial Attack</p>
-              <p>kkh9314 at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={juyeop_kim}
-                alt="Juyeop Kim"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Juyeop Kim</b>
-              </h4>
-              <p>Explainable AI</p>
-              <p>juyeopkim at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={junha_park}
-                alt="Junha Park"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Junha Park</b>
-              </h4>
-              <p>Deep Learning for Graph Data, Generative Models</p>
-              <p>junha.park at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={seungeun_yu}
-                alt="Seungeun Yu"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Seungeun Yu</b>
-              </h4>
-              <p>Computer Vision</p>
-              <p>seungeun.yu at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={hyeonjin_lee}
-                alt="Hyeonjin Lee"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Hyeonjin Lee</b>
-              </h4>
-              <p>Human-Like Machine Learning</p>
-              <p>hyeonjin.lee at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={donghee_shin}
-                alt="Donghee Shin"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Donghee Shin</b>
-              </h4>
-              <p>Generative Model, Graph Neural Network</p>
-              <p>dh.shin at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={chae_won_lee}
-                alt="Chae-Won Lee"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Chae-Won Lee</b>
-              </h4>
-              <p>Brain-Computer Interface, Model Privacy, Adversarial Attack</p>
-              <p>chae-won.lee at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={ian_ryu}
-                alt="Ian Ryu"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Ian Ryu</b>
-              </h4>
-              <p>Generative Models</p>
-              <p>ianryu at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <hr />
-
-      <a className="bookmark-anchor" id="ms"></a>
-      <div className="page-header">
-        <h3>M.S. Students</h3>
-      </div>
-
-      <div className="row">
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={junhyuk_park}
-                alt="Junhyuk Park"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Junhyuk Park</b>
-              </h4>
-              <p></p>
-              <p>
-                junhyuk.park at yonsei.ac.kr
-                <br />
-                <a href="http://parkjunhyuk.com" target="_blank">
-                  <i className="fa fa-external-link-square"></i> Website
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={jin_woo_park}
-                alt="Jin-Woo Park"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Jin-Woo Park</b>
-              </h4>
-              <p>Deep Learning and its Application</p>
-              <p>jin-woo.park at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={hyungkeun_park}
-                alt="Hyungkeun Park"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Hyungkeun Park</b>
-              </h4>
-              <p>Knowledge Distillation</p>
-              <p>hyungkeun.park at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={jiyoon_kim}
-                alt="Jiyoon Kim"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Jiyoon Kim</b>
-              </h4>
-              <p>Generative Models</p>
-              <p>ji-yoon.kim at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-6">
-          <div className="media member-item">
-            <div className="media-left">
-              <Image
-                className="media-object member-image"
-                src={jiyun_kong}
-                alt="Jiyun Kong"
-              />
-            </div>
-            <div className="media-body">
-              <h4 className="media-heading">
-                <b>Jiyun Kong</b>
-              </h4>
-              <p>Computer Vision</p>
-              <p>jiyun.kong at yonsei.ac.kr</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="clearfix visible-md-block visible-lg-block"></div>
-      </div>
-
-      <hr />
+      <MemberSection id="phd" title="Ph.D. Students" students={phdStudents} />
+      <MemberSection id="ms" title="M.S. Students" students={msStudents} />
 
       <a className="bookmark-anchor" id="alumni"></a>
       <div className="page-header">
